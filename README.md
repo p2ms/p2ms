@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">- Graduanda em ciências da computação pela UNESP<br>- Técnico em Desenvolvimento de Sistemas pela ETEC</h4>
+<h4 align="left">- Graduanda em ciências da computação<br>- Técnico em Desenvolvimento de Sistemas</h4>
 
 ###
 
